@@ -1,0 +1,16 @@
+[submodule "Nodejs_Learning_HelloWorld1"]
+	path = Nodejs_Learning_HelloWorld1
+	url = https://github.com/jmarvillier/Nodejs_Learning_HelloWorld1.git
+	branch = master
+[submodule "Nodejs_Learning_HelloWorld2"]
+	path = Nodejs_Learning_HelloWorld2
+	url = https://github.com/jmarvillier/Nodejs_Learning_HelloWorld2.git
+	branch = master
+[submodule "Nodejs_Learning_HelloWorld3"]
+	path = Nodejs_Learning_HelloWorld3
+	url = https://github.com/jmarvillier/Nodejs_Learning_HelloWorld3.git
+	branch = master
+[submodule "Nodejs_Learning_HelloWorld4"]
+	path = Nodejs_Learning_HelloWorld4
+	url = https://github.com/jmarvillier/Nodejs_Learning_HelloWorld4.git
+	branch = master
